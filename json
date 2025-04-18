@@ -1,6 +1,8 @@
 {
   "date": "18-04-2025",
-  "lis": 5380.25,
-  "bullish": [5395.75, 5410.50, 5430.00],
-  "bearish": [5365.00, 5350.25, 5335.75]
+  "lis": 5350,
+  "bullish": [5360.00, 5380.00, 5400.00],
+  "bearish": [5340.00, 5330.00, 5310.00],
+  "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "redditUrl": "none"
 }
